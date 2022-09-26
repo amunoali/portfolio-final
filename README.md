@@ -6,7 +6,8 @@ This is a web application that lets your generate and meet new people all over t
 https://munoali.netlify.app/
 
 
-https://res.cloudinary.com/amunoali/image/upload/v1664212131/portfolio_ez4i5b.png
+<img src="https://res.cloudinary.com/amunoali/image/upload/v1664212131/portfolio_ez4i5b.png" alt=""> 
+
 
 
 ## How It's Made:
