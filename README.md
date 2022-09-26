@@ -1,6 +1,5 @@
 
 # Portfolio
-This is a web application that lets your generate and meet new people all over the world and provides their contact information as well.
 
 ## Link to Project:
 https://munoali.netlify.app/
