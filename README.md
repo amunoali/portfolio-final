@@ -5,7 +5,7 @@
 https://munoali.netlify.app/
 
 
-<img src="https://res.cloudinary.com/amunoali/image/upload/v1664212131/portfolio_ez4i5b.png" alt=""> 
+<img src="https://res.cloudinary.com/amunoali/image/upload/v1671643961/portfolio_hedaak.gif" alt=""> 
 
 
 
